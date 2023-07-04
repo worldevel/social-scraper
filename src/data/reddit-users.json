@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6,
+    "name": "Lawrence Dickerson",
+    "username": "Rhona",
+    "email": "adipiscing.lobortis@yahoo.edu",
+    "phone": "1-825-318-8552",
+    "date": "Sep 8, 2022"
+  },
+  {
+    "id": 9,
+    "name": "Martin Mcguire",
+    "username": "Ulysses",
+    "email": "nullam.ut.nisi@hotmail.ca",
+    "phone": "1-768-824-6196",
+    "date": "May 28, 2022"
+  },
+  {
+    "id": 10,
+    "name": "Melodie Welch",
+    "username": "Hashim",
+    "email": "nunc.ac@outlook.couk",
+    "phone": "1-500-295-2871",
+    "date": "May 14, 2023"
+  },
+  {
+    "id": 8,
+    "name": "Melanie Gibson",
+    "username": "Channing",
+    "email": "lectus.a@protonmail.ca",
+    "phone": "(258) 775-0792",
+    "date": "Oct 7, 2022"
+  },
+  {
+    "id": 6,
+    "name": "Haviva Browning",
+    "username": "Zeus",
+    "email": "nulla.tincidunt@hotmail.couk",
+    "phone": "1-675-647-0416",
+    "date": "May 11, 2023"
+  },
+  {
+    "id": 9,
+    "name": "Geoffrey Gray",
+    "username": "Sacha",
+    "email": "aliquam.arcu@outlook.net",
+    "phone": "1-417-783-7206",
+    "date": "Feb 27, 2024"
+  },
+  {
+    "id": 6,
+    "name": "Cassandra Rios",
+    "username": "Savannah",
+    "email": "ipsum.ac@google.org",
+    "phone": "1-812-477-1878",
+    "date": "Mar 20, 2024"
+  },
+  {
+    "id": 5,
+    "name": "Brody Tucker",
+    "username": "Phillip",
+    "email": "aenean.eget@yahoo.net",
+    "phone": "1-552-122-5934",
+    "date": "Jan 2, 2023"
+  },
+  {
+    "id": 1,
+    "name": "Wynter Morton",
+    "username": "Leilani",
+    "email": "velit.justo@icloud.couk",
+    "phone": "(267) 586-7734",
+    "date": "Oct 11, 2022"
+  },
+  {
+    "id": 9,
+    "name": "Quyn Mayo",
+    "username": "Carissa",
+    "email": "parturient.montes@protonmail.edu",
+    "phone": "1-328-519-5815",
+    "date": "May 28, 2022"
+  }
+]
